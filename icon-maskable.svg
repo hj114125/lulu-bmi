@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="噜噜健康">
+  <!-- maskable：图形收在中间 80% 安全区内，四角由平台裁切 -->
+  <rect width="200" height="200" fill="#A0825A"/>
+  <ellipse cx="100" cy="106" rx="52" ry="42" fill="#E8D5B7" opacity=".22"/>
+  <ellipse cx="100" cy="106" rx="46" ry="34" fill="#A0825A"/>
+  <ellipse cx="100" cy="117" rx="29" ry="18" fill="#E8D5B7"/>
+  <ellipse cx="64" cy="84" rx="7" ry="9" fill="#8B6F47"/>
+  <ellipse cx="136" cy="84" rx="7" ry="9" fill="#8B6F47"/>
+  <ellipse cx="80" cy="98" rx="2.8" ry="3.6" fill="#2C1810"/>
+  <ellipse cx="120" cy="98" rx="2.8" ry="3.6" fill="#2C1810"/>
+  <ellipse cx="100" cy="112" rx="4.4" ry="3" fill="#2C1810"/>
+  <path d="M100 114 Q95 118 91 117 M100 114 Q105 118 109 117" stroke="#2C1810" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+</svg>

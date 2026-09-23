@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="噜噜健康">
+  <rect width="200" height="200" rx="44" fill="#FFF8E7"/>
+  <ellipse cx="100" cy="118" rx="74" ry="56" fill="#A0825A"/>
+  <ellipse cx="100" cy="136" rx="47" ry="29" fill="#E8D5B7"/>
+  <ellipse cx="43" cy="80" rx="10" ry="13" fill="#8B6F47"/>
+  <ellipse cx="157" cy="80" rx="10" ry="13" fill="#8B6F47"/>
+  <ellipse cx="33" cy="114" rx="9" ry="5" fill="#F4B5B5" opacity=".75"/>
+  <ellipse cx="167" cy="114" rx="9" ry="5" fill="#F4B5B5" opacity=".75"/>
+  <ellipse cx="68" cy="103" rx="3.6" ry="4.6" fill="#2C1810"/>
+  <ellipse cx="132" cy="103" rx="3.6" ry="4.6" fill="#2C1810"/>
+  <circle cx="69" cy="101" r="1.2" fill="#FFF"/>
+  <circle cx="133" cy="101" r="1.2" fill="#FFF"/>
+  <ellipse cx="100" cy="122" rx="6" ry="4" fill="#2C1810"/>
+  <path d="M100 124 Q93 130 87 128 M100 124 Q107 130 113 128" stroke="#2C1810" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>
